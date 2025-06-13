@@ -12,6 +12,7 @@ python-dotenv = "*"
 langchain = "*"
 streamlit = "*"
 blinker = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
